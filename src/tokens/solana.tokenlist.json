@@ -14,18 +14,3 @@
     "telegram": "https://t.me/joinsolbro"
   }
 }
-,
-{
-  "chainId": 101,
-  "address": "DvN4W8U3BuuxW6t44IhdY3vKXxYdwRTvTKRxkw1acF6Q",
-  "symbol": "SBRO",
-  "name": "SolBro",
-  "decimals": 0,
-  "logoURI": "https://raw.githubusercontent.com/Solbro2025/token-list/main/assets/mainnet/DvN4W8U3BuuxW6t44IhdY3vKXxYdwRTvTKRxkw1acF6Q/logo.png",
-  "tags": [],
-  "extensions": {
-    "website": "https://solbro.fun",
-    "twitter": "https://x.com/SolbroCult",
-    "telegram": "https://t.me/joinsolbro"
-  }
-}
