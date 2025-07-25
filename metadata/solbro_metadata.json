@@ -2,5 +2,19 @@
   "name": "SolBro",
   "symbol": "SBRO",
   "description": "The community-powered cult of Solana. You are SolBro now.",
-  "image": "https://raw.githubusercontent.com/Solbro2025/token-list/main/assets/mainnet/9mZr8D9BjNxrHwhaHKBgKDZqzPPhjYYkiGjen6hVmoon.png"
+  "image": "https://raw.githubusercontent.com/Solbro2025/token-list/main/assets/mainnet/9mZr8D9BjNxrHwhaHKBgKDZqzPPhjYYkiGjen6hVmoon.png",
+  "extensions": {
+    "website": "https://solbrocult.neocities.org",
+    "twitter": "https://x.com/SolbroCult",
+    "telegram": "https://t.me/joinsolbro"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "FGMzNwrTWDCRunfGsSCxmz3f3NHDoZFvEoawApJZ8ZmF",
+        "share": 100
+      }
+    ]
+  }
 }
